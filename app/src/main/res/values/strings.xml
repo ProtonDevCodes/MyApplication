@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProtonReactionButtons</string>
+    <string name="button_title_1">GREEN</string>
+    <string name="button_title_2">SMOOTH</string>
+    <string name="button_title_3">GHOST</string>
+    <string name="button_title_4">RAISED</string>
+</resources>
